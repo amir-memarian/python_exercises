@@ -1,4 +1,7 @@
-pi = 22 / 7
+from math import pi
+
+# pi = 22 / 7
+
 height = float(input('Height of cylinder: '))
 radius = float(input('radius os cylinder: '))
 

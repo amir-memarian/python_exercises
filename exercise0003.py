@@ -1,4 +1,7 @@
-pi = 22 / 7
+from math import pi
+
+# pi = 22 / 7
+
 radius = float(input('Radius of sphere: '))
 
 surArea = 4 * pi * (radius ** 2)
